@@ -29,7 +29,7 @@
    git clone https://github.com/RitikaAttada/budget-tracker.git
 
 
-2. Open the main HTML file (e.g., `mainpage.html`) in your browser.
+2. Open the main HTML file (e.g., `index.html`) in your browser.
 3. Click the **Income** or **Expense** button to enter an amount.
 4. Press **Enter** to add the transaction.
 5. View updated totals and your transaction history below.
